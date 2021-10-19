@@ -14705,3 +14705,9 @@ client_session: <aiohttp.client.ClientSession object at 0x7fd250e37940>
 2021-10-19 22:14:07,443 - freqtrade.wallets - INFO - Wallets synced.
 2021-10-19 22:14:18,732 - freqtrade.freqtradebot - INFO - Pair AVA/USDT is still locked until 2021-10-19 22:14:00 due to Auto lock.
 2021-10-19 22:14:19,178 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 22:15:13,044 - freqtrade.freqtradebot - INFO - Executing Sell for XEC/USDT. Reason: roi
+2021-10-19 22:15:13,055 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 22:15:14,143 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell, 'trade_id': 46, 'exchange': 'Binance', 'pair': 'XEC/USDT', 'gain': 'profit', 'limit': 0.00018782, 'order_type': 'limit', 'amount': 59557.234502356776, 'open_rate': 0.00018558, 'close_rate': None, 'current_rate': 0.00018782, 'profit_amount': 0.11116953, 'profit_ratio': 0.01004815, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 20, 2, 9, 104483), 'close_date': datetime.datetime(2021, 10, 19, 22, 15, 14, 143709), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 22:15:15,808 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 22:16:04,557 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=46, pair=XEC/USDT, amount=59557.23450236, open_rate=0.00018558, open_since=2021-10-19 20:02:09)
+2021-10-19 22:16:15,289 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'

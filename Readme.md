@@ -6,7 +6,7 @@
 3. Login params ```    "username": "freqtrader",
    "password": "password"```
 
-#Links#
+# Links #
 Your best friend is [documentation](https://www.freqtrade.io/en/stable/)
 
 Free [strategies](https://github.com/freqtrade/freqtrade-strategies/tree/master/user_data/strategies) repo
