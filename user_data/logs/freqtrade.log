@@ -14276,3 +14276,432 @@ client_session: <aiohttp.client.ClientSession object at 0x7fc3521d3820>
 2021-10-19 21:06:15,655 - VolumePairList - INFO - Searching 200 pairs: ['BTC/USDT', 'ETH/USDT', 'BUSD/USDT', 'SHIB/USDT', 'FTM/USDT', 'DOGE/USDT', 'DOT/USDT', 'ARPA/USDT', 'SOL/USDT', 'XRP/USDT', 'TRX/USDT', 'ADA/USDT', 'LPT/USDT', 'USDC/USDT', 'REEF/USDT', 'FIL/USDT', 'MATIC/USDT', 'ATOM/USDT', 'LTC/USDT', 'BTCST/USDT', 'AVAX/USDT', 'ONE/USDT', 'LINK/USDT', 'LUNA/USDT', 'DYDX/USDT', 'ICP/USDT', 'CELR/USDT', 'KAVA/USDT', 'VET/USDT', 'AXS/USDT', 'UMA/USDT', 'EOS/USDT', 'NEAR/USDT', 'FLOW/USDT', 'CAKE/USDT', 'GTC/USDT', 'XTZ/USDT', 'SLP/USDT', 'XLM/USDT', 'NU/USDT', 'KEY/USDT', 'THETA/USDT', 'BCH/USDT', 'KEEP/USDT', 'ETC/USDT', '1INCH/USDT', 'KSM/USDT', 'STPT/USDT', 'OMG/USDT', 'ZEC/USDT', 'BOND/USDT', 'ANKR/USDT', 'FTT/USDT', 'SFP/USDT', 'ALGO/USDT', 'FET/USDT', 'POLY/USDT', 'HBAR/USDT', 'CHZ/USDT', 'STX/USDT', 'WIN/USDT', 'JST/USDT', 'UNI/USDT', 'SUSHI/USDT', 'FORTH/USDT', 'RARE/USDT', 'COTI/USDT', 'OXT/USDT', 'XEC/USDT', 'EUR/USDT', 'CKB/USDT', 'XVS/USDT', 'BTT/USDT', 'EGLD/USDT', 'SXP/USDT', 'AUD/USDT', 'INJ/USDT', 'GRT/USDT', 'SUN/USDT', 'DASH/USDT', 'TVK/USDT', 'HOT/USDT', 'DENT/USDT', 'AAVE/USDT', 'POLS/USDT', 'ICX/USDT', 'DODO/USDT', 'C98/USDT', 'XMR/USDT', 'GALA/USDT', 'BEL/USDT', 'TLM/USDT', 'ZEN/USDT', 'NKN/USDT', 'AR/USDT', 'CRV/USDT', 'BETA/USDT', 'BAKE/USDT', 'TRU/USDT', 'CELO/USDT', 'ONT/USDT', 'SRM/USDT', 'IOTX/USDT', 'RUNE/USDT', 'PERP/USDT', 'TFUEL/USDT', 'ALICE/USDT', 'SYS/USDT', 'VIDT/USDT', 'COMP/USDT', 'HARD/USDT', 'OCEAN/USDT', 'RVN/USDT', 'CTSI/USDT', 'IOTA/USDT', 'LINA/USDT', 'FUN/USDT', 'TWT/USDT', 'BTCUP/USDT', 'POND/USDT', 'ENJ/USDT', 'SC/USDT', 'NEO/USDT', 'FOR/USDT', 'ZIL/USDT', 'IOST/USDT', 'WRX/USDT', 'SKL/USDT', 'WAXP/USDT', 'MINA/USDT', 'WAVES/USDT', 'MANA/USDT', 'EPS/USDT', 'QTUM/USDT', 'GBP/USDT', 'ROSE/USDT', 'RAD/USDT', 'MLN/USDT', 'SUPER/USDT', 'ATA/USDT', 'RSR/USDT', 'MDX/USDT', 'UNFI/USDT', 'SNX/USDT', 'BADGER/USDT', 'SAND/USDT', 'UTK/USDT', 'BTG/USDT', 'LIT/USDT', 'KLAY/USDT', 'TOMO/USDT', 'IDEX/USDT', 'TROY/USDT', 'HIVE/USDT', 'MASK/USDT', 'ACM/USDT', 'QNT/USDT', 'OGN/USDT', 'CHR/USDT', 'AUTO/USDT', 'AUDIO/USDT', 'TRB/USDT', 'RLC/USDT', 'BLZ/USDT', 'FLM/USDT', 'RAY/USDT', 'ETHDOWN/USDT', 'TKO/USDT', 'MBOX/USDT', 'BTS/USDT', 'CTK/USDT', 'TUSD/USDT', 'YFI/USDT', 'ETHUP/USDT', 'REQ/USDT', 'NBS/USDT', 'BAT/USDT', 'CFX/USDT', 'COS/USDT', 'BEAM/USDT', 'ALPHA/USDT', 'AGLD/USDT', 'REN/USDT', 'LRC/USDT', 'CLV/USDT', 'BAND/USDT', 'STMX/USDT', 'AKRO/USDT', 'XVG/USDT', 'BZRX/USDT', 'TCT/USDT', 'DOTUP/USDT', 'AVA/USDT', 'IRIS/USDT', 'MKR/USDT', 'DGB/USDT', 'VTHO/USDT', 'HNT/USDT', 'ALPACA/USDT', 'GTO/USDT']
 2021-10-19 21:07:00,624 - AgeFilter - INFO - Removed RARE/USDT from whitelist, because age 8 is less than 10 days
 2021-10-19 21:07:00,626 - AgeFilter - INFO - Validated 199 pairs.
+2021-10-19 21:07:44,317 - RangeStabilityFilter - INFO - Removed BUSD/USDT from whitelist, because rate of change over 5 days is 0.001, which is below the threshold of 0.01.
+2021-10-19 21:07:44,391 - RangeStabilityFilter - INFO - Removed TUSD/USDT from whitelist, because rate of change over 5 days is 0.001, which is below the threshold of 0.01.
+2021-10-19 21:07:44,404 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': status, 'status': 'config reloaded'}
+2021-10-19 21:07:44,405 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': status, 'status': 'running'}
+2021-10-19 21:07:44,405 - freqtrade.worker - INFO - Changing state to: RUNNING
+2021-10-19 21:07:44,405 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': warning, 'status': 'Dry run is enabled. All trades are simulated.'}
+2021-10-19 21:07:44,406 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': startup, 'status': "*Exchange:* `binance`\n*Stake per trade:* `0.01 USDT`\n*Minimum ROI:* `{'0': 0.01}`\n*Stoploss:* `-0.05`\n*Timeframe:* `1m`\n*Strategy:* `SmoothScalp`"}
+2021-10-19 21:07:44,406 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': startup, 'status': "Searching for USDT pairs to buy and sell based on [{'VolumePairList': 'VolumePairList - top 200 volume pairs.'}, {'AgeFilter': 'AgeFilter - Filtering pairs with age less than 10 days'}, {'RangeStabilityFilter': 'RangeStabilityFilter - Filtering pairs with rate of change below 0.01 over the last days.'}]"}
+2021-10-19 21:07:44,409 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=4, pair=ZEC/USDT, amount=0.07800000, open_rate=141.60000000, open_since=2021-10-19 15:48:51)
+2021-10-19 21:07:44,410 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=6, pair=FET/USDT, amount=15.58464690, open_rate=0.70920000, open_since=2021-10-19 15:53:51)
+2021-10-19 21:07:44,411 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=7, pair=BTS/USDT, amount=216.50000000, open_rate=0.05104000, open_since=2021-10-19 15:54:53)
+2021-10-19 21:07:44,411 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=8, pair=CAKE/USDT, amount=0.55000000, open_rate=19.86000000, open_since=2021-10-19 15:56:55)
+2021-10-19 21:07:44,411 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=10, pair=DOGE/USDT, amount=45.57786218, open_rate=0.24250000, open_since=2021-10-19 15:59:57)
+2021-10-19 21:07:44,412 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=11, pair=THETA/USDT, amount=1.80000000, open_rate=5.90300000, open_since=2021-10-19 16:00:58)
+2021-10-19 21:07:44,412 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=12, pair=OMG/USDT, amount=0.80000000, open_rate=13.76900000, open_since=2021-10-19 16:00:59)
+2021-10-19 21:07:44,413 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=13, pair=HARD/USDT, amount=10.93778484, open_rate=1.01050000, open_since=2021-10-19 16:01:01)
+2021-10-19 21:07:44,413 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=14, pair=SAND/USDT, amount=15.24711212, open_rate=0.72490000, open_since=2021-10-19 16:01:02)
+2021-10-19 21:07:44,415 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=17, pair=BLZ/USDT, amount=44.03438876, open_rate=0.25100000, open_since=2021-10-19 16:02:04)
+2021-10-19 21:07:44,415 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=21, pair=ATA/USDT, amount=10.30356258, open_rate=1.07270000, open_since=2021-10-19 16:17:10)
+2021-10-19 21:07:44,416 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=23, pair=CTK/USDT, amount=5.40000000, open_rate=2.02800000, open_since=2021-10-19 16:20:08)
+2021-10-19 21:07:44,416 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=24, pair=CELR/USDT, amount=78.70000000, open_rate=0.14032000, open_since=2021-10-19 16:53:17)
+2021-10-19 21:07:44,417 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=25, pair=IOST/USDT, amount=223.15024387, open_rate=0.04953000, open_since=2021-10-19 18:04:55)
+2021-10-19 21:07:44,417 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:07:44,418 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=27, pair=REQ/USDT, amount=48.84061679, open_rate=0.22630000, open_since=2021-10-19 18:07:57)
+2021-10-19 21:07:44,419 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=29, pair=WAXP/USDT, amount=37.69656064, open_rate=0.29320000, open_since=2021-10-19 18:14:03)
+2021-10-19 21:07:44,419 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=32, pair=IOTX/USDT, amount=164.15612029, open_rate=0.06733000, open_since=2021-10-19 18:58:58)
+2021-10-19 21:07:44,419 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=33, pair=TWT/USDT, amount=9.96810207, open_rate=1.10880000, open_since=2021-10-19 19:01:59)
+2021-10-19 21:07:44,420 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=34, pair=OCEAN/USDT, amount=13.16729995, open_rate=0.83940000, open_since=2021-10-19 19:04:04)
+2021-10-19 21:07:44,420 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=35, pair=SFP/USDT, amount=6.00132029, open_rate=1.84170000, open_since=2021-10-19 19:04:59)
+2021-10-19 21:07:44,421 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04)
+2021-10-19 21:07:44,421 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=37, pair=COTI/USDT, amount=22.43733573, open_rate=0.49260000, open_since=2021-10-19 19:27:04)
+2021-10-19 21:07:44,421 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=38, pair=AVAX/USDT, amount=0.19000000, open_rate=56.45000000, open_since=2021-10-19 19:41:04)
+2021-10-19 21:07:44,422 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=39, pair=BAND/USDT, amount=1.30000000, open_rate=8.35200000, open_since=2021-10-19 19:46:03)
+2021-10-19 21:07:44,422 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=40, pair=MATIC/USDT, amount=7.60000000, open_rate=1.45400000, open_since=2021-10-19 19:46:59)
+2021-10-19 21:07:44,422 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=41, pair=FLM/USDT, amount=22.49670584, open_rate=0.49130000, open_since=2021-10-19 19:47:01)
+2021-10-19 21:07:44,423 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=42, pair=AVA/USDT, amount=3.60000000, open_rate=3.00200000, open_since=2021-10-19 19:47:02)
+2021-10-19 21:07:44,423 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=43, pair=XRP/USDT, amount=10.22445104, open_rate=1.08100000, open_since=2021-10-19 19:50:03)
+2021-10-19 21:07:44,423 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=44, pair=DOT/USDT, amount=0.27000000, open_rate=40.78000000, open_since=2021-10-19 19:57:06)
+2021-10-19 21:07:44,423 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=45, pair=LIT/USDT, amount=2.50000000, open_rate=4.27700000, open_since=2021-10-19 19:58:04)
+2021-10-19 21:07:44,424 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=46, pair=XEC/USDT, amount=59557.23450236, open_rate=0.00018558, open_since=2021-10-19 20:02:09)
+2021-10-19 21:07:44,424 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=47, pair=BEAM/USDT, amount=13.14850295, open_rate=0.84060000, open_since=2021-10-19 20:03:10)
+2021-10-19 21:07:44,424 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=50, pair=DYDX/USDT, amount=0.58000000, open_rate=18.95600000, open_since=2021-10-19 20:23:58)
+2021-10-19 21:07:44,425 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=52, pair=EGLD/USDT, amount=0.04000000, open_rate=226.02000000, open_since=2021-10-19 20:29:13)
+2021-10-19 21:07:44,425 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=53, pair=SKL/USDT, amount=32.83610095, open_rate=0.33660000, open_since=2021-10-19 20:36:16)
+2021-10-19 21:07:44,425 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=54, pair=COMP/USDT, amount=0.03600000, open_rate=302.30000000, open_since=2021-10-19 20:41:05)
+2021-10-19 21:07:44,426 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=55, pair=SOL/USDT, amount=0.07000000, open_rate=153.28000000, open_since=2021-10-19 20:43:01)
+2021-10-19 21:07:44,426 - freqtrade.persistence.models - INFO - Found open trade: Trade(id=56, pair=FIL/USDT, amount=0.17000000, open_rate=62.64000000, open_since=2021-10-19 20:45:14)
+2021-10-19 21:07:55,098 - ccxt.base.exchange - WARNING - binance requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add exchange.close() to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2021-10-19 21:07:55,100 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7fd250e37940>
+2021-10-19 21:08:44,292 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:10:16,362 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:12:12,311 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:13:09,893 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:13:10,130 - freqtrade.wallets - INFO - Stake amount for pair CTSI/USDT is too small (11.05263157894737 < 11.05263157894737), adjusting to 11.05263157894737.
+2021-10-19 21:13:10,131 - freqtrade.freqtradebot - INFO - Buy signal found: about create a new trade for CTSI/USDT with stake_amount: 11.05263157894737 ...
+2021-10-19 21:13:11,284 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:13:11,285 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 57, 'type': buy, 'buy_tag': None, 'exchange': 'Binance', 'pair': 'CTSI/USDT', 'limit': 0.7322, 'order_type': 'limit', 'stake_amount': 11.05263157894737, 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'amount': 15.095099124484253, 'open_date': datetime.datetime(2021, 10, 19, 21, 13, 10, 373744), 'current_rate': 0.7322}
+2021-10-19 21:13:59,588 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=57, pair=CTSI/USDT, amount=15.09509912, open_rate=0.73220000, open_since=2021-10-19 21:13:10)
+2021-10-19 21:14:09,172 - freqtrade.freqtradebot - INFO - Executing Sell for BEAM/USDT. Reason: roi
+2021-10-19 21:14:09,182 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:14:10,460 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell, 'trade_id': 47, 'exchange': 'Binance', 'pair': 'BEAM/USDT', 'gain': 'profit', 'limit': 0.855, 'order_type': 'limit', 'amount': 13.148502949021378, 'open_rate': 0.8406, 'close_rate': None, 'current_rate': 0.855, 'profit_amount': 0.16704384, 'profit_ratio': 0.01509839, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 20, 3, 10, 600862), 'close_date': datetime.datetime(2021, 10, 19, 21, 14, 10, 460029), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:14:11,902 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:14:12,731 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:14:45,144 - freqtrade.exchange.common - WARNING - _async_get_candle_history() returned exception: "Could not fetch historical candle (OHLCV) data for pair SHIB/USDT due to ExchangeError. Message: binance GET https://api.binance.com/api/v3/klines?symbol=SHIBUSDT&interval=1m&limit=1000"
+2021-10-19 21:14:45,145 - freqtrade.exchange.common - WARNING - retrying _async_get_candle_history() still for 4 times
+2021-10-19 21:15:00,783 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=47, pair=BEAM/USDT, amount=13.14850295, open_rate=0.84060000, open_since=2021-10-19 20:03:10)
+2021-10-19 21:15:01,285 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=57, pair=CTSI/USDT, amount=15.09509912, open_rate=0.73220000, open_since=2021-10-19 21:13:10)
+2021-10-19 21:15:57,991 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=47, pair=BEAM/USDT, amount=13.14850295, open_rate=0.84060000, open_since=2021-10-19 20:03:10)
+2021-10-19 21:15:58,707 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=57, pair=CTSI/USDT, amount=15.09509912, open_rate=0.73220000, open_since=2021-10-19 21:13:10)
+2021-10-19 21:16:09,556 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:16:56,947 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=47, pair=BEAM/USDT, amount=13.14850295, open_rate=0.84060000, open_since=2021-10-19 20:03:10)
+2021-10-19 21:16:57,347 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=57, pair=CTSI/USDT, amount=15.09509912, open_rate=0.73220000, open_since=2021-10-19 21:13:10)
+2021-10-19 21:16:57,703 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=57, pair=CTSI/USDT, amount=15.09509912, open_rate=0.73220000, open_since=2021-10-19 21:13:10) [buy]: 0.011052632 USDT - rate: 0.001
+2021-10-19 21:16:57,703 - freqtrade.persistence.models - INFO - Updating trade (id=57) ...
+2021-10-19 21:16:57,704 - freqtrade.persistence.models - INFO - LIMIT_BUY has been fulfilled for Trade(id=57, pair=CTSI/USDT, amount=15.09509912, open_rate=0.73220000, open_since=2021-10-19 21:13:10).
+2021-10-19 21:16:57,971 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 57, 'type': buy_fill, 'buy_tag': None, 'exchange': 'Binance', 'pair': 'CTSI/USDT', 'open_rate': 0.7322, 'stake_amount': 11.05263157894737, 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'amount': 15.095099124484253, 'open_date': datetime.datetime(2021, 10, 19, 21, 13, 10, 373744)}
+2021-10-19 21:17:54,517 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=47, pair=BEAM/USDT, amount=13.14850295, open_rate=0.84060000, open_since=2021-10-19 20:03:10)
+2021-10-19 21:17:54,852 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=47, pair=BEAM/USDT, amount=13.14850295, open_rate=0.84060000, open_since=2021-10-19 20:03:10) [sell]: 0.01124197 USDT - rate: 0.001
+2021-10-19 21:17:54,852 - freqtrade.persistence.models - INFO - Updating trade (id=47) ...
+2021-10-19 21:17:54,852 - freqtrade.persistence.models - INFO - LIMIT_SELL has been fulfilled for Trade(id=47, pair=BEAM/USDT, amount=13.14850295, open_rate=0.84060000, open_since=2021-10-19 20:03:10).
+2021-10-19 21:17:54,853 - freqtrade.persistence.models - INFO - Marking Trade(id=47, pair=BEAM/USDT, amount=13.14850295, open_rate=0.84060000, open_since=closed) as closed as the trade is fulfilled and found no open orders for it.
+2021-10-19 21:17:55,196 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell_fill, 'trade_id': 47, 'exchange': 'Binance', 'pair': 'BEAM/USDT', 'gain': 'profit', 'limit': 0.855, 'order_type': '', 'amount': 13.148502949021378, 'open_rate': 0.8406, 'close_rate': 0.855, 'current_rate': None, 'profit_amount': 0.16704384, 'profit_ratio': 0.01509839, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 20, 3, 10, 600862), 'close_date': datetime.datetime(2021, 10, 19, 21, 17, 54, 853336), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:17:55,205 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:18:08,490 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:20:06,368 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:20:07,108 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:20:07,908 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell, 'trade_id': 36, 'exchange': 'Binance', 'pair': 'BTCDOWN/USDT', 'gain': 'loss', 'limit': 0.00778, 'order_type': 'limit', 'amount': 1422.47, 'open_rate': 0.00777, 'close_rate': None, 'current_rate': 0.00778, 'profit_amount': -0.00789471, 'profit_ratio': -0.00071357, 'sell_reason': 'force_sell', 'open_date': datetime.datetime(2021, 10, 19, 19, 25, 4, 416808), 'close_date': datetime.datetime(2021, 10, 19, 21, 20, 7, 908967), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:20:07,920 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:21:06,624 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:21:06,861 - freqtrade.wallets - INFO - Stake amount for pair BADGER/USDT is too small (11.05263157894737 < 11.05263157894737), adjusting to 11.05263157894737.
+2021-10-19 21:21:06,861 - freqtrade.freqtradebot - INFO - Buy signal found: about create a new trade for BADGER/USDT with stake_amount: 11.05263157894737 ...
+2021-10-19 21:21:07,629 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:21:07,629 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 58, 'type': buy, 'buy_tag': None, 'exchange': 'Binance', 'pair': 'BADGER/USDT', 'limit': 27.48, 'order_type': 'limit', 'stake_amount': 11.05263157894737, 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'amount': 0.4, 'open_date': datetime.datetime(2021, 10, 19, 21, 21, 7, 115726), 'current_rate': 27.48}
+2021-10-19 21:21:07,973 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:21:08,225 - freqtrade.wallets - INFO - Stake amount for pair BAT/USDT is too small (11.05263157894737 < 11.05263157894737), adjusting to 11.05263157894737.
+2021-10-19 21:21:08,226 - freqtrade.freqtradebot - INFO - Buy signal found: about create a new trade for BAT/USDT with stake_amount: 11.05263157894737 ...
+2021-10-19 21:21:09,059 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:21:09,060 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 59, 'type': buy, 'buy_tag': None, 'exchange': 'Binance', 'pair': 'BAT/USDT', 'limit': 0.6777, 'order_type': 'limit', 'stake_amount': 11.05263157894737, 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'amount': 16.309032874350553, 'open_date': datetime.datetime(2021, 10, 19, 21, 21, 8, 460240), 'current_rate': 0.6777}
+2021-10-19 21:21:10,139 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:21:59,944 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04)
+2021-10-19 21:22:00,602 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=58, pair=BADGER/USDT, amount=0.40000000, open_rate=27.48000000, open_since=2021-10-19 21:21:07)
+2021-10-19 21:22:01,009 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=59, pair=BAT/USDT, amount=16.30903287, open_rate=0.67770000, open_since=2021-10-19 21:21:08)
+2021-10-19 21:22:01,426 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=59, pair=BAT/USDT, amount=16.30903287, open_rate=0.67770000, open_since=2021-10-19 21:21:08) [buy]: 0.011052632 USDT - rate: 0.001
+2021-10-19 21:22:01,426 - freqtrade.persistence.models - INFO - Updating trade (id=59) ...
+2021-10-19 21:22:01,427 - freqtrade.persistence.models - INFO - LIMIT_BUY has been fulfilled for Trade(id=59, pair=BAT/USDT, amount=16.30903287, open_rate=0.67770000, open_since=2021-10-19 21:21:08).
+2021-10-19 21:22:01,844 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 59, 'type': buy_fill, 'buy_tag': None, 'exchange': 'Binance', 'pair': 'BAT/USDT', 'open_rate': 0.6777, 'stake_amount': 11.05263157894737, 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'amount': 16.309032874350553, 'open_date': datetime.datetime(2021, 10, 19, 21, 21, 8, 460240)}
+2021-10-19 21:22:12,984 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:22:54,552 - freqtrade.freqtradebot - INFO - Sell order forcesold for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04).
+2021-10-19 21:22:54,609 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:22:54,610 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell_cancel, 'trade_id': 36, 'exchange': 'Binance', 'pair': 'BTCDOWN/USDT', 'gain': 'loss', 'limit': 0, 'order_type': 'limit', 'amount': 1422.47, 'open_rate': 0.00777, 'current_rate': 0.00777, 'profit_amount': -11.06364449, 'profit_ratio': -1.0, 'sell_reason': 'force_sell', 'open_date': datetime.datetime(2021, 10, 19, 19, 25, 4, 416808), 'close_date': datetime.datetime(2021, 10, 19, 21, 22, 54, 610328, tzinfo=datetime.timezone.utc), 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'reason': 'forcesold'}
+2021-10-19 21:22:54,678 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:22:55,804 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell, 'trade_id': 36, 'exchange': 'Binance', 'pair': 'BTCDOWN/USDT', 'gain': 'loss', 'limit': 0.00777, 'order_type': 'limit', 'amount': 1422.47, 'open_rate': 0.00777, 'close_rate': None, 'current_rate': 0.00777, 'profit_amount': -0.02210518, 'profit_ratio': -0.001998, 'sell_reason': 'force_sell', 'open_date': datetime.datetime(2021, 10, 19, 19, 25, 4, 416808), 'close_date': datetime.datetime(2021, 10, 19, 21, 22, 55, 804616), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:22:55,982 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:22:59,625 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04)
+2021-10-19 21:22:59,931 - freqtrade.freqtradebot - INFO - Applying fee on amount for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04) failed: myTrade-Dict empty found
+2021-10-19 21:22:59,931 - freqtrade.freqtradebot - INFO - Sell order cancelled on exchange for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04).
+2021-10-19 21:23:00,238 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:23:00,238 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell_cancel, 'trade_id': 36, 'exchange': 'Binance', 'pair': 'BTCDOWN/USDT', 'gain': 'loss', 'limit': 0, 'order_type': 'limit', 'amount': 1422.47, 'open_rate': 0.00777, 'current_rate': 0.00777, 'profit_amount': -11.06364449, 'profit_ratio': -1.0, 'sell_reason': 'force_sell', 'open_date': datetime.datetime(2021, 10, 19, 19, 25, 4, 416808), 'close_date': datetime.datetime(2021, 10, 19, 21, 23, 0, 238702, tzinfo=datetime.timezone.utc), 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'reason': 'cancelled on exchange'}
+2021-10-19 21:23:00,239 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=58, pair=BADGER/USDT, amount=0.40000000, open_rate=27.48000000, open_since=2021-10-19 21:21:07)
+2021-10-19 21:23:00,608 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=58, pair=BADGER/USDT, amount=0.40000000, open_rate=27.48000000, open_since=2021-10-19 21:21:07) [buy]: 0.010992 USDT - rate: 0.001
+2021-10-19 21:23:00,609 - freqtrade.persistence.models - INFO - Updating trade (id=58) ...
+2021-10-19 21:23:00,609 - freqtrade.persistence.models - INFO - LIMIT_BUY has been fulfilled for Trade(id=58, pair=BADGER/USDT, amount=0.40000000, open_rate=27.48000000, open_since=2021-10-19 21:21:07).
+2021-10-19 21:23:00,909 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 58, 'type': buy_fill, 'buy_tag': None, 'exchange': 'Binance', 'pair': 'BADGER/USDT', 'open_rate': 27.48, 'stake_amount': 11.05263157894737, 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'amount': 0.4, 'open_date': datetime.datetime(2021, 10, 19, 21, 21, 7, 115726)}
+2021-10-19 21:23:13,965 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:24:16,156 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:25:17,400 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:27:18,665 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:29:17,288 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:30:17,136 - freqtrade.freqtradebot - INFO - Executing Sell for CTSI/USDT. Reason: roi
+2021-10-19 21:30:17,147 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:30:18,837 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell, 'trade_id': 57, 'exchange': 'Binance', 'pair': 'CTSI/USDT', 'gain': 'profit', 'limit': 0.7435, 'order_type': 'limit', 'amount': 15.095099124484253, 'open_rate': 0.7322, 'close_rate': None, 'current_rate': 0.7435, 'profit_amount': 0.14829878, 'profit_ratio': 0.0134041, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 21, 13, 10, 373744), 'close_date': datetime.datetime(2021, 10, 19, 21, 30, 18, 837520), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:30:19,324 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:30:20,924 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:31:07,277 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=57, pair=CTSI/USDT, amount=15.09509912, open_rate=0.73220000, open_since=2021-10-19 21:13:10)
+2021-10-19 21:32:06,731 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=57, pair=CTSI/USDT, amount=15.09509912, open_rate=0.73220000, open_since=2021-10-19 21:13:10)
+2021-10-19 21:32:07,072 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=57, pair=CTSI/USDT, amount=15.09509912, open_rate=0.73220000, open_since=2021-10-19 21:13:10) [sell]: 0.011223206 USDT - rate: 0.001
+2021-10-19 21:32:07,073 - freqtrade.persistence.models - INFO - Updating trade (id=57) ...
+2021-10-19 21:32:07,073 - freqtrade.persistence.models - INFO - LIMIT_SELL has been fulfilled for Trade(id=57, pair=CTSI/USDT, amount=15.09509912, open_rate=0.73220000, open_since=2021-10-19 21:13:10).
+2021-10-19 21:32:07,073 - freqtrade.persistence.models - INFO - Marking Trade(id=57, pair=CTSI/USDT, amount=15.09509912, open_rate=0.73220000, open_since=closed) as closed as the trade is fulfilled and found no open orders for it.
+2021-10-19 21:32:07,413 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell_fill, 'trade_id': 57, 'exchange': 'Binance', 'pair': 'CTSI/USDT', 'gain': 'profit', 'limit': 0.7435, 'order_type': '', 'amount': 15.095099124484253, 'open_rate': 0.7322, 'close_rate': 0.7435, 'current_rate': None, 'profit_amount': 0.14829878, 'profit_ratio': 0.0134041, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 21, 13, 10, 373744), 'close_date': datetime.datetime(2021, 10, 19, 21, 32, 7, 73930), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:32:07,420 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:32:20,546 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:33:03,416 - RangeStabilityFilter - INFO - Removed BUSD/USDT from whitelist, because rate of change over 5 days is 0.001, which is below the threshold of 0.01.
+2021-10-19 21:33:03,466 - RangeStabilityFilter - INFO - Removed TUSD/USDT from whitelist, because rate of change over 5 days is 0.001, which is below the threshold of 0.01.
+2021-10-19 21:34:01,161 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:34:56,026 - freqtrade.freqtradebot - INFO - Executing Sell for DYDX/USDT. Reason: roi
+2021-10-19 21:34:56,039 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:34:56,642 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell, 'trade_id': 50, 'exchange': 'Binance', 'pair': 'DYDX/USDT', 'gain': 'profit', 'limit': 19.194, 'order_type': 'limit', 'amount': 0.58, 'open_rate': 18.956, 'close_rate': None, 'current_rate': 19.194, 'profit_amount': 0.115913, 'profit_ratio': 0.0105323, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 20, 23, 58, 541415), 'close_date': datetime.datetime(2021, 10, 19, 21, 34, 56, 642482), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:34:58,320 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:35:06,168 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=50, pair=DYDX/USDT, amount=0.58000000, open_rate=18.95600000, open_since=2021-10-19 20:23:58)
+2021-10-19 21:35:19,727 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:36:06,105 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=50, pair=DYDX/USDT, amount=0.58000000, open_rate=18.95600000, open_since=2021-10-19 20:23:58)
+2021-10-19 21:36:06,277 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=50, pair=DYDX/USDT, amount=0.58000000, open_rate=18.95600000, open_since=2021-10-19 20:23:58) [sell]: 0.01113252 USDT - rate: 0.001
+2021-10-19 21:36:06,278 - freqtrade.persistence.models - INFO - Updating trade (id=50) ...
+2021-10-19 21:36:06,279 - freqtrade.persistence.models - INFO - LIMIT_SELL has been fulfilled for Trade(id=50, pair=DYDX/USDT, amount=0.58000000, open_rate=18.95600000, open_since=2021-10-19 20:23:58).
+2021-10-19 21:36:06,279 - freqtrade.persistence.models - INFO - Marking Trade(id=50, pair=DYDX/USDT, amount=0.58000000, open_rate=18.95600000, open_since=closed) as closed as the trade is fulfilled and found no open orders for it.
+2021-10-19 21:36:06,411 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell_fill, 'trade_id': 50, 'exchange': 'Binance', 'pair': 'DYDX/USDT', 'gain': 'profit', 'limit': 19.194, 'order_type': '', 'amount': 0.58, 'open_rate': 18.956, 'close_rate': 19.194, 'current_rate': None, 'profit_amount': 0.115913, 'profit_ratio': 0.0105323, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 20, 23, 58, 541415), 'close_date': datetime.datetime(2021, 10, 19, 21, 36, 6, 279863), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:36:06,418 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:36:20,603 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring BCC/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,604 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring VEN/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,604 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring PAX/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,605 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring BSV/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,605 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring USDS/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,606 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring USDSB/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,606 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring ERD/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,606 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring NPXS/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,607 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring STORM/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,607 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring HC/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,607 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring MCO/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,608 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring BULL/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,608 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring BEAR/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,609 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring ETHBULL/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,609 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring ETHBEAR/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,610 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring EOSBULL/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,610 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring EOSBEAR/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,610 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring XRPBULL/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,611 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring XRPBEAR/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,611 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring STRAT/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,614 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring BNBBULL/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,615 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring BNBBEAR/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,615 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring XZC/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,616 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring LEND/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,616 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring BKRW/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,617 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring DAI/USDT from whitelist. Market is not active.
+2021-10-19 21:36:20,621 - VolumePairList - INFO - Pair BNB/USDT in your blacklist. Removing it from whitelist...
+2021-10-19 21:36:20,621 - VolumePairList - INFO - Pair BTCDOWN/USDT in your blacklist. Removing it from whitelist...
+2021-10-19 21:36:20,621 - VolumePairList - INFO - Searching 200 pairs: ['BTC/USDT', 'ETH/USDT', 'BUSD/USDT', 'SHIB/USDT', 'FTM/USDT', 'DOGE/USDT', 'DOT/USDT', 'ARPA/USDT', 'SOL/USDT', 'XRP/USDT', 'ADA/USDT', 'TRX/USDT', 'LPT/USDT', 'USDC/USDT', 'REEF/USDT', 'FIL/USDT', 'MATIC/USDT', 'ATOM/USDT', 'BTCST/USDT', 'LTC/USDT', 'AVAX/USDT', 'LUNA/USDT', 'ONE/USDT', 'LINK/USDT', 'DYDX/USDT', 'ICP/USDT', 'CELR/USDT', 'KAVA/USDT', 'VET/USDT', 'UMA/USDT', 'AXS/USDT', 'EOS/USDT', 'FLOW/USDT', 'NEAR/USDT', 'CAKE/USDT', 'GTC/USDT', 'XTZ/USDT', 'SLP/USDT', 'XLM/USDT', 'NU/USDT', 'KEY/USDT', 'THETA/USDT', 'BCH/USDT', 'KEEP/USDT', '1INCH/USDT', 'ETC/USDT', 'KSM/USDT', 'STPT/USDT', 'OMG/USDT', 'ZEC/USDT', 'BOND/USDT', 'FTT/USDT', 'ALGO/USDT', 'FET/USDT', 'ANKR/USDT', 'SFP/USDT', 'POLY/USDT', 'HBAR/USDT', 'CHZ/USDT', 'STX/USDT', 'JST/USDT', 'UNI/USDT', 'WIN/USDT', 'RARE/USDT', 'SUSHI/USDT', 'FORTH/USDT', 'EUR/USDT', 'COTI/USDT', 'CKB/USDT', 'XEC/USDT', 'OXT/USDT', 'XVS/USDT', 'BTT/USDT', 'EGLD/USDT', 'SXP/USDT', 'AUD/USDT', 'INJ/USDT', 'DASH/USDT', 'SUN/USDT', 'GRT/USDT', 'TVK/USDT', 'ICX/USDT', 'DENT/USDT', 'HOT/USDT', 'RUNE/USDT', 'AAVE/USDT', 'POLS/USDT', 'DODO/USDT', 'C98/USDT', 'XMR/USDT', 'BEL/USDT', 'ZEN/USDT', 'GALA/USDT', 'AR/USDT', 'TLM/USDT', 'BAKE/USDT', 'CRV/USDT', 'BETA/USDT', 'NKN/USDT', 'TRU/USDT', 'CELO/USDT', 'SRM/USDT', 'IOTX/USDT', 'ONT/USDT', 'PERP/USDT', 'TFUEL/USDT', 'ALICE/USDT', 'SYS/USDT', 'VIDT/USDT', 'COMP/USDT', 'HARD/USDT', 'OCEAN/USDT', 'RVN/USDT', 'IOTA/USDT', 'CTSI/USDT', 'FUN/USDT', 'LINA/USDT', 'POND/USDT', 'TWT/USDT', 'BTCUP/USDT', 'ENJ/USDT', 'NEO/USDT', 'FOR/USDT', 'ZIL/USDT', 'SC/USDT', 'IOST/USDT', 'WRX/USDT', 'WAXP/USDT', 'MINA/USDT', 'WAVES/USDT', 'SKL/USDT', 'GBP/USDT', 'MANA/USDT', 'ROSE/USDT', 'QTUM/USDT', 'EPS/USDT', 'ATA/USDT', 'RAD/USDT', 'SUPER/USDT', 'MLN/USDT', 'RSR/USDT', 'MDX/USDT', 'UNFI/USDT', 'SNX/USDT', 'SAND/USDT', 'TOMO/USDT', 'BTG/USDT', 'BADGER/USDT', 'KLAY/USDT', 'IDEX/USDT', 'UTK/USDT', 'TROY/USDT', 'HIVE/USDT', 'QNT/USDT', 'ACM/USDT', 'MASK/USDT', 'AUTO/USDT', 'OGN/USDT', 'CHR/USDT', 'LIT/USDT', 'AUDIO/USDT', 'TRB/USDT', 'BLZ/USDT', 'FLM/USDT', 'RLC/USDT', 'MBOX/USDT', 'RAY/USDT', 'ETHDOWN/USDT', 'BEAM/USDT', 'TKO/USDT', 'CTK/USDT', 'BTS/USDT', 'TUSD/USDT', 'YFI/USDT', 'ETHUP/USDT', 'COS/USDT', 'BAT/USDT', 'NBS/USDT', 'REQ/USDT', 'CFX/USDT', 'ALPHA/USDT', 'REN/USDT', 'LRC/USDT', 'AGLD/USDT', 'STMX/USDT', 'CLV/USDT', 'AKRO/USDT', 'XVG/USDT', 'BZRX/USDT', 'AVA/USDT', 'TCT/USDT', 'DOTUP/USDT', 'MKR/USDT', 'DGB/USDT', 'BAND/USDT', 'GTO/USDT', 'VTHO/USDT', 'HNT/USDT', 'WNXM/USDT', 'ALPACA/USDT']
+2021-10-19 21:37:20,868 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:39:15,232 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:40:05,524 - freqtrade.freqtradebot - INFO - Executing Sell for TFUEL/USDT. Reason: roi
+2021-10-19 21:40:05,532 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:40:06,135 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell, 'trade_id': 26, 'exchange': 'Binance', 'pair': 'TFUEL/USDT', 'gain': 'profit', 'limit': 0.2842, 'order_type': 'limit', 'amount': 39.361223571749896, 'open_rate': 0.2808, 'close_rate': None, 'current_rate': 0.2842, 'profit_amount': 0.11158907, 'profit_ratio': 0.01008607, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 18, 5, 58, 762294), 'close_date': datetime.datetime(2021, 10, 19, 21, 40, 6, 135227), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:40:12,316 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:41:02,517 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:41:13,872 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:42:00,624 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:42:48,936 - freqtrade.freqtradebot - INFO - Sell order forcesold for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04).
+2021-10-19 21:42:48,969 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:42:48,970 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell_cancel, 'trade_id': 36, 'exchange': 'Binance', 'pair': 'BTCDOWN/USDT', 'gain': 'loss', 'limit': 0, 'order_type': 'limit', 'amount': 1422.47, 'open_rate': 0.00777, 'current_rate': 0.00766, 'profit_amount': -11.06364449, 'profit_ratio': -1.0, 'sell_reason': 'force_sell', 'open_date': datetime.datetime(2021, 10, 19, 19, 25, 4, 416808), 'close_date': datetime.datetime(2021, 10, 19, 21, 42, 48, 969993, tzinfo=datetime.timezone.utc), 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'reason': 'forcesold'}
+2021-10-19 21:42:48,976 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:42:50,091 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell, 'trade_id': 36, 'exchange': 'Binance', 'pair': 'BTCDOWN/USDT', 'gain': 'loss', 'limit': 0.00766, 'order_type': 'limit', 'amount': 1422.47, 'open_rate': 0.00777, 'close_rate': None, 'current_rate': 0.00766, 'profit_amount': -0.17842041, 'profit_ratio': -0.01612673, 'sell_reason': 'force_sell', 'open_date': datetime.datetime(2021, 10, 19, 19, 25, 4, 416808), 'close_date': datetime.datetime(2021, 10, 19, 21, 42, 50, 91058), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:42:50,102 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:42:57,924 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:42:58,552 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04)
+2021-10-19 21:43:08,937 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:43:56,219 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:43:56,792 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04)
+2021-10-19 21:44:09,523 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:44:56,773 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:44:57,343 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04)
+2021-10-19 21:45:08,246 - freqtrade.freqtradebot - INFO - Sell order forcesold for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04).
+2021-10-19 21:45:08,261 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:45:08,262 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell_cancel, 'trade_id': 36, 'exchange': 'Binance', 'pair': 'BTCDOWN/USDT', 'gain': 'loss', 'limit': 0, 'order_type': 'limit', 'amount': 1422.47, 'open_rate': 0.00777, 'current_rate': 0.00766, 'profit_amount': -11.06364449, 'profit_ratio': -1.0, 'sell_reason': 'force_sell', 'open_date': datetime.datetime(2021, 10, 19, 19, 25, 4, 416808), 'close_date': datetime.datetime(2021, 10, 19, 21, 45, 8, 262170, tzinfo=datetime.timezone.utc), 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'reason': 'forcesold'}
+2021-10-19 21:45:08,265 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:45:09,395 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell, 'trade_id': 36, 'exchange': 'Binance', 'pair': 'BTCDOWN/USDT', 'gain': 'loss', 'limit': 0.00766, 'order_type': 'limit', 'amount': 1422.47, 'open_rate': 0.00777, 'close_rate': None, 'current_rate': 0.00766, 'profit_amount': -0.17842041, 'profit_ratio': -0.01612673, 'sell_reason': 'force_sell', 'open_date': datetime.datetime(2021, 10, 19, 19, 25, 4, 416808), 'close_date': datetime.datetime(2021, 10, 19, 21, 45, 9, 395793), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:45:09,409 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:45:55,326 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:45:55,909 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04)
+2021-10-19 21:46:06,030 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:46:53,178 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:46:53,762 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04)
+2021-10-19 21:47:51,868 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:47:52,438 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04)
+2021-10-19 21:48:05,209 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:48:05,456 - freqtrade.wallets - INFO - Stake amount for pair WNXM/USDT is too small (11.05263157894737 < 11.05263157894737), adjusting to 11.05263157894737.
+2021-10-19 21:48:05,456 - freqtrade.freqtradebot - INFO - Buy signal found: about create a new trade for WNXM/USDT with stake_amount: 11.05263157894737 ...
+2021-10-19 21:48:06,204 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:48:06,205 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 60, 'type': buy, 'buy_tag': None, 'exchange': 'Binance', 'pair': 'WNXM/USDT', 'limit': 54.46, 'order_type': 'limit', 'stake_amount': 11.05263157894737, 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'amount': 0.2, 'open_date': datetime.datetime(2021, 10, 19, 21, 48, 5, 692022), 'current_rate': 54.46}
+2021-10-19 21:48:06,217 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:48:53,167 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:48:53,756 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04)
+2021-10-19 21:48:54,746 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=60, pair=WNXM/USDT, amount=0.20000000, open_rate=54.46000000, open_since=2021-10-19 21:48:05)
+2021-10-19 21:49:06,606 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:49:53,178 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:49:53,777 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04)
+2021-10-19 21:49:54,349 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=60, pair=WNXM/USDT, amount=0.20000000, open_rate=54.46000000, open_since=2021-10-19 21:48:05)
+2021-10-19 21:50:51,321 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:50:52,734 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04)
+2021-10-19 21:50:53,423 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=60, pair=WNXM/USDT, amount=0.20000000, open_rate=54.46000000, open_since=2021-10-19 21:48:05)
+2021-10-19 21:51:03,499 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:51:50,167 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:51:50,723 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04)
+2021-10-19 21:51:51,048 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04) [sell]: 0.01089612 USDT - rate: 0.001
+2021-10-19 21:51:51,048 - freqtrade.persistence.models - INFO - Updating trade (id=36) ...
+2021-10-19 21:51:51,049 - freqtrade.persistence.models - INFO - LIMIT_SELL has been fulfilled for Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=2021-10-19 19:25:04).
+2021-10-19 21:51:51,049 - freqtrade.persistence.models - INFO - Marking Trade(id=36, pair=BTCDOWN/USDT, amount=1422.47000000, open_rate=0.00777000, open_since=closed) as closed as the trade is fulfilled and found no open orders for it.
+2021-10-19 21:51:51,393 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell_fill, 'trade_id': 36, 'exchange': 'Binance', 'pair': 'BTCDOWN/USDT', 'gain': 'loss', 'limit': 0.00766, 'order_type': '', 'amount': 1422.47, 'open_rate': 0.00777, 'close_rate': 0.00766, 'current_rate': None, 'profit_amount': -0.17842041, 'profit_ratio': -0.01612673, 'sell_reason': 'force_sell', 'open_date': datetime.datetime(2021, 10, 19, 19, 25, 4, 416808), 'close_date': datetime.datetime(2021, 10, 19, 21, 51, 51, 49427), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:51:51,402 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:51:51,637 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=60, pair=WNXM/USDT, amount=0.20000000, open_rate=54.46000000, open_since=2021-10-19 21:48:05)
+2021-10-19 21:51:51,972 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=60, pair=WNXM/USDT, amount=0.20000000, open_rate=54.46000000, open_since=2021-10-19 21:48:05) [buy]: 0.010892 USDT - rate: 0.001
+2021-10-19 21:51:51,972 - freqtrade.persistence.models - INFO - Updating trade (id=60) ...
+2021-10-19 21:51:51,973 - freqtrade.persistence.models - INFO - LIMIT_BUY has been fulfilled for Trade(id=60, pair=WNXM/USDT, amount=0.20000000, open_rate=54.46000000, open_since=2021-10-19 21:48:05).
+2021-10-19 21:51:52,287 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 60, 'type': buy_fill, 'buy_tag': None, 'exchange': 'Binance', 'pair': 'WNXM/USDT', 'open_rate': 54.46, 'stake_amount': 11.05263157894737, 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'amount': 0.2, 'open_date': datetime.datetime(2021, 10, 19, 21, 48, 5, 692022)}
+2021-10-19 21:52:05,004 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:52:51,031 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:53:49,211 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:54:01,671 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:54:47,939 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:54:59,172 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:54:59,412 - freqtrade.wallets - INFO - Stake amount for pair LPT/USDT is too small (11.05263157894737 < 11.05263157894737), adjusting to 11.05263157894737.
+2021-10-19 21:54:59,413 - freqtrade.freqtradebot - INFO - Buy signal found: about create a new trade for LPT/USDT with stake_amount: 11.05263157894737 ...
+2021-10-19 21:55:00,212 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:55:00,212 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 61, 'type': buy, 'buy_tag': None, 'exchange': 'Binance', 'pair': 'LPT/USDT', 'limit': 28.73, 'order_type': 'limit', 'stake_amount': 11.05263157894737, 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'amount': 0.38, 'open_date': datetime.datetime(2021, 10, 19, 21, 54, 59, 650041), 'current_rate': 28.73}
+2021-10-19 21:55:00,811 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:55:01,107 - freqtrade.wallets - INFO - Stake amount for pair BTT/USDT is too small (11.05263157894737 < 11.05263157894737), adjusting to 11.05263157894737.
+2021-10-19 21:55:01,107 - freqtrade.freqtradebot - INFO - Buy signal found: about create a new trade for BTT/USDT with stake_amount: 11.05263157894737 ...
+2021-10-19 21:55:01,895 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:55:01,895 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 62, 'type': buy, 'buy_tag': None, 'exchange': 'Binance', 'pair': 'BTT/USDT', 'limit': 0.003578, 'order_type': 'limit', 'stake_amount': 11.05263157894737, 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'amount': 3089.0529846135746, 'open_date': datetime.datetime(2021, 10, 19, 21, 55, 1, 341593), 'current_rate': 0.003578}
+2021-10-19 21:55:02,880 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:55:48,689 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:55:49,354 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=61, pair=LPT/USDT, amount=0.38000000, open_rate=28.73000000, open_since=2021-10-19 21:54:59)
+2021-10-19 21:55:50,245 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=62, pair=BTT/USDT, amount=3089.05298461, open_rate=0.00357800, open_since=2021-10-19 21:55:01)
+2021-10-19 21:56:03,344 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:56:49,766 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:56:50,390 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=61, pair=LPT/USDT, amount=0.38000000, open_rate=28.73000000, open_since=2021-10-19 21:54:59)
+2021-10-19 21:56:51,269 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=62, pair=BTT/USDT, amount=3089.05298461, open_rate=0.00357800, open_since=2021-10-19 21:55:01)
+2021-10-19 21:57:03,319 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:57:03,561 - freqtrade.wallets - INFO - Stake amount for pair NU/USDT is too small (11.05263157894737 < 11.05263157894737), adjusting to 11.05263157894737.
+2021-10-19 21:57:03,566 - freqtrade.freqtradebot - INFO - Buy signal found: about create a new trade for NU/USDT with stake_amount: 11.05263157894737 ...
+2021-10-19 21:57:04,339 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:57:04,340 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 63, 'type': buy, 'buy_tag': None, 'exchange': 'Binance', 'pair': 'NU/USDT', 'limit': 1.207, 'order_type': 'limit', 'stake_amount': 11.05263157894737, 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'amount': 9.157109841712817, 'open_date': datetime.datetime(2021, 10, 19, 21, 57, 3, 803677), 'current_rate': 1.207}
+2021-10-19 21:57:05,573 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:57:48,204 - RangeStabilityFilter - INFO - Removed BUSD/USDT from whitelist, because rate of change over 5 days is 0.001, which is below the threshold of 0.01.
+2021-10-19 21:57:48,252 - RangeStabilityFilter - INFO - Removed TUSD/USDT from whitelist, because rate of change over 5 days is 0.001, which is below the threshold of 0.01.
+2021-10-19 21:58:33,958 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:58:34,738 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=61, pair=LPT/USDT, amount=0.38000000, open_rate=28.73000000, open_since=2021-10-19 21:54:59)
+2021-10-19 21:58:35,722 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=62, pair=BTT/USDT, amount=3089.05298461, open_rate=0.00357800, open_since=2021-10-19 21:55:01)
+2021-10-19 21:58:36,282 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=63, pair=NU/USDT, amount=9.15710984, open_rate=1.20700000, open_since=2021-10-19 21:57:03)
+2021-10-19 21:58:39,056 - freqtrade.freqtradebot - INFO - Executing Sell for DOGE/USDT. Reason: roi
+2021-10-19 21:58:39,066 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:58:40,116 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell, 'trade_id': 10, 'exchange': 'Binance', 'pair': 'DOGE/USDT', 'gain': 'profit', 'limit': 0.2455, 'order_type': 'limit', 'amount': 45.577862181226266, 'open_rate': 0.2425, 'close_rate': None, 'current_rate': 0.2455, 'profit_amount': 0.11449159, 'profit_ratio': 0.01034841, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 15, 59, 57, 278693), 'close_date': datetime.datetime(2021, 10, 19, 21, 58, 40, 116190), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:58:49,134 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:58:50,090 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 21:59:10,698 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=10, pair=DOGE/USDT, amount=45.57786218, open_rate=0.24250000, open_since=2021-10-19 15:59:57)
+2021-10-19 21:59:11,319 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=10, pair=DOGE/USDT, amount=45.57786218, open_rate=0.24250000, open_since=2021-10-19 15:59:57) [sell]: 0.011189365 USDT - rate: 0.001
+2021-10-19 21:59:11,320 - freqtrade.persistence.models - INFO - Updating trade (id=10) ...
+2021-10-19 21:59:11,320 - freqtrade.persistence.models - INFO - LIMIT_SELL has been fulfilled for Trade(id=10, pair=DOGE/USDT, amount=45.57786218, open_rate=0.24250000, open_since=2021-10-19 15:59:57).
+2021-10-19 21:59:11,321 - freqtrade.persistence.models - INFO - Marking Trade(id=10, pair=DOGE/USDT, amount=45.57786218, open_rate=0.24250000, open_since=closed) as closed as the trade is fulfilled and found no open orders for it.
+2021-10-19 21:59:11,672 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell_fill, 'trade_id': 10, 'exchange': 'Binance', 'pair': 'DOGE/USDT', 'gain': 'profit', 'limit': 0.2455, 'order_type': '', 'amount': 45.577862181226266, 'open_rate': 0.2425, 'close_rate': 0.2455, 'current_rate': None, 'profit_amount': 0.11449159, 'profit_ratio': 0.01034841, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 15, 59, 57, 278693), 'close_date': datetime.datetime(2021, 10, 19, 21, 59, 11, 321027), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:59:11,681 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:59:11,913 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 21:59:12,519 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=61, pair=LPT/USDT, amount=0.38000000, open_rate=28.73000000, open_since=2021-10-19 21:54:59)
+2021-10-19 21:59:13,081 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=62, pair=BTT/USDT, amount=3089.05298461, open_rate=0.00357800, open_since=2021-10-19 21:55:01)
+2021-10-19 21:59:13,632 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=63, pair=NU/USDT, amount=9.15710984, open_rate=1.20700000, open_since=2021-10-19 21:57:03)
+2021-10-19 21:59:15,363 - freqtrade.freqtradebot - INFO - Executing Sell for OMG/USDT. Reason: roi
+2021-10-19 21:59:15,381 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:59:16,318 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell, 'trade_id': 12, 'exchange': 'Binance', 'pair': 'OMG/USDT', 'gain': 'profit', 'limit': 13.936, 'order_type': 'limit', 'amount': 0.8, 'open_rate': 13.769, 'close_rate': None, 'current_rate': 13.936, 'profit_amount': 0.111436, 'profit_ratio': 0.01010646, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 16, 0, 59, 966076), 'close_date': datetime.datetime(2021, 10, 19, 21, 59, 16, 318155), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 21:59:23,933 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 21:59:23,964 - freqtrade.freqtradebot - INFO - Pair DOGE/USDT is still locked until 2021-10-19 21:59:00 due to Auto lock.
+2021-10-19 22:00:08,687 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=12, pair=OMG/USDT, amount=0.80000000, open_rate=13.76900000, open_since=2021-10-19 16:00:59)
+2021-10-19 22:00:09,724 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 22:00:10,294 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=61, pair=LPT/USDT, amount=0.38000000, open_rate=28.73000000, open_since=2021-10-19 21:54:59)
+2021-10-19 22:00:10,892 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=62, pair=BTT/USDT, amount=3089.05298461, open_rate=0.00357800, open_since=2021-10-19 21:55:01)
+2021-10-19 22:00:11,446 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=63, pair=NU/USDT, amount=9.15710984, open_rate=1.20700000, open_since=2021-10-19 21:57:03)
+2021-10-19 22:00:22,232 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 22:01:07,891 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=12, pair=OMG/USDT, amount=0.80000000, open_rate=13.76900000, open_since=2021-10-19 16:00:59)
+2021-10-19 22:01:08,238 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=12, pair=OMG/USDT, amount=0.80000000, open_rate=13.76900000, open_since=2021-10-19 16:00:59) [sell]: 0.0111488 USDT - rate: 0.001
+2021-10-19 22:01:08,239 - freqtrade.persistence.models - INFO - Updating trade (id=12) ...
+2021-10-19 22:01:08,239 - freqtrade.persistence.models - INFO - LIMIT_SELL has been fulfilled for Trade(id=12, pair=OMG/USDT, amount=0.80000000, open_rate=13.76900000, open_since=2021-10-19 16:00:59).
+2021-10-19 22:01:08,240 - freqtrade.persistence.models - INFO - Marking Trade(id=12, pair=OMG/USDT, amount=0.80000000, open_rate=13.76900000, open_since=closed) as closed as the trade is fulfilled and found no open orders for it.
+2021-10-19 22:01:08,586 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell_fill, 'trade_id': 12, 'exchange': 'Binance', 'pair': 'OMG/USDT', 'gain': 'profit', 'limit': 13.936, 'order_type': '', 'amount': 0.8, 'open_rate': 13.769, 'close_rate': 13.936, 'current_rate': None, 'profit_amount': 0.111436, 'profit_ratio': 0.01010646, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 16, 0, 59, 966076), 'close_date': datetime.datetime(2021, 10, 19, 22, 1, 8, 240187), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 22:01:08,593 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 22:01:08,826 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 22:01:09,396 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=61, pair=LPT/USDT, amount=0.38000000, open_rate=28.73000000, open_since=2021-10-19 21:54:59)
+2021-10-19 22:01:09,937 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=62, pair=BTT/USDT, amount=3089.05298461, open_rate=0.00357800, open_since=2021-10-19 21:55:01)
+2021-10-19 22:01:10,524 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=63, pair=NU/USDT, amount=9.15710984, open_rate=1.20700000, open_since=2021-10-19 21:57:03)
+2021-10-19 22:02:06,223 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 22:02:06,799 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=61, pair=LPT/USDT, amount=0.38000000, open_rate=28.73000000, open_since=2021-10-19 21:54:59)
+2021-10-19 22:02:07,354 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=62, pair=BTT/USDT, amount=3089.05298461, open_rate=0.00357800, open_since=2021-10-19 21:55:01)
+2021-10-19 22:02:07,903 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=63, pair=NU/USDT, amount=9.15710984, open_rate=1.20700000, open_since=2021-10-19 21:57:03)
+2021-10-19 22:02:18,956 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 22:03:05,710 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 22:03:06,279 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=61, pair=LPT/USDT, amount=0.38000000, open_rate=28.73000000, open_since=2021-10-19 21:54:59)
+2021-10-19 22:03:07,259 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=62, pair=BTT/USDT, amount=3089.05298461, open_rate=0.00357800, open_since=2021-10-19 21:55:01)
+2021-10-19 22:03:08,236 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=63, pair=NU/USDT, amount=9.15710984, open_rate=1.20700000, open_since=2021-10-19 21:57:03)
+2021-10-19 22:03:19,049 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 22:04:05,335 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 22:04:05,900 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=61, pair=LPT/USDT, amount=0.38000000, open_rate=28.73000000, open_since=2021-10-19 21:54:59)
+2021-10-19 22:04:06,450 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=62, pair=BTT/USDT, amount=3089.05298461, open_rate=0.00357800, open_since=2021-10-19 21:55:01)
+2021-10-19 22:04:07,088 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=63, pair=NU/USDT, amount=9.15710984, open_rate=1.20700000, open_since=2021-10-19 21:57:03)
+2021-10-19 22:05:05,044 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 22:05:06,164 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=61, pair=LPT/USDT, amount=0.38000000, open_rate=28.73000000, open_since=2021-10-19 21:54:59)
+2021-10-19 22:05:06,716 - freqtrade.freqtradebot - INFO - Buy order cancelled due to timeout for Trade(id=61, pair=LPT/USDT, amount=0.38000000, open_rate=28.73000000, open_since=2021-10-19 21:54:59).
+2021-10-19 22:05:06,716 - freqtrade.freqtradebot - INFO - Buy order fully cancelled. Removing Trade(id=61, pair=LPT/USDT, amount=0.38000000, open_rate=28.73000000, open_since=2021-10-19 21:54:59) from database.
+2021-10-19 22:05:07,242 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 22:05:07,243 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 61, 'type': buy_cancel, 'buy_tag': None, 'exchange': 'Binance', 'pair': 'LPT/USDT', 'limit': 28.73, 'order_type': 'limit', 'stake_amount': 11.05263157894737, 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'amount': 0.38, 'open_date': datetime.datetime(2021, 10, 19, 21, 54, 59, 650041), 'current_rate': 28.73, 'reason': 'cancelled due to timeout, fully cancelled'}
+2021-10-19 22:05:07,910 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=62, pair=BTT/USDT, amount=3089.05298461, open_rate=0.00357800, open_since=2021-10-19 21:55:01)
+2021-10-19 22:05:08,586 - freqtrade.freqtradebot - INFO - Buy order cancelled due to timeout for Trade(id=62, pair=BTT/USDT, amount=3089.05298461, open_rate=0.00357800, open_since=2021-10-19 21:55:01).
+2021-10-19 22:05:08,587 - freqtrade.freqtradebot - INFO - Buy order fully cancelled. Removing Trade(id=62, pair=BTT/USDT, amount=3089.05298461, open_rate=0.00357800, open_since=2021-10-19 21:55:01) from database.
+2021-10-19 22:05:09,233 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 22:05:09,233 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 62, 'type': buy_cancel, 'buy_tag': None, 'exchange': 'Binance', 'pair': 'BTT/USDT', 'limit': 0.003578, 'order_type': 'limit', 'stake_amount': 11.05263157894737, 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'amount': 3089.0529846135746, 'open_date': datetime.datetime(2021, 10, 19, 21, 55, 1, 341593), 'current_rate': 0.003578, 'reason': 'cancelled due to timeout, fully cancelled'}
+2021-10-19 22:05:09,463 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=63, pair=NU/USDT, amount=9.15710984, open_rate=1.20700000, open_since=2021-10-19 21:57:03)
+2021-10-19 22:05:20,531 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 22:06:06,278 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 22:06:06,849 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=63, pair=NU/USDT, amount=9.15710984, open_rate=1.20700000, open_since=2021-10-19 21:57:03)
+2021-10-19 22:07:07,253 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 22:07:07,820 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=63, pair=NU/USDT, amount=9.15710984, open_rate=1.20700000, open_since=2021-10-19 21:57:03)
+2021-10-19 22:07:08,469 - freqtrade.freqtradebot - INFO - Buy order cancelled due to timeout for Trade(id=63, pair=NU/USDT, amount=9.15710984, open_rate=1.20700000, open_since=2021-10-19 21:57:03).
+2021-10-19 22:07:08,470 - freqtrade.freqtradebot - INFO - Buy order fully cancelled. Removing Trade(id=63, pair=NU/USDT, amount=9.15710984, open_rate=1.20700000, open_since=2021-10-19 21:57:03) from database.
+2021-10-19 22:07:09,031 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 22:07:09,031 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'trade_id': 63, 'type': buy_cancel, 'buy_tag': None, 'exchange': 'Binance', 'pair': 'NU/USDT', 'limit': 1.207, 'order_type': 'limit', 'stake_amount': 11.05263157894737, 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'amount': 9.157109841712817, 'open_date': datetime.datetime(2021, 10, 19, 21, 57, 3, 803677), 'current_rate': 1.207, 'reason': 'cancelled due to timeout, fully cancelled'}
+2021-10-19 22:07:20,221 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 22:07:21,811 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring BCC/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,812 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring VEN/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,812 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring PAX/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,813 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring BSV/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,813 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring USDS/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,813 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring USDSB/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,814 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring ERD/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,814 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring NPXS/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,814 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring STORM/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,815 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring HC/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,815 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring MCO/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,815 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring BULL/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,816 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring BEAR/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,816 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring ETHBULL/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,816 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring ETHBEAR/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,816 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring EOSBULL/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,817 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring EOSBEAR/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,817 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring XRPBULL/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,817 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring XRPBEAR/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,818 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring STRAT/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,818 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring BNBBULL/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,818 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring BNBBEAR/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,818 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring XZC/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,819 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring LEND/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,819 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring BKRW/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,820 - freqtrade.plugins.pairlist.IPairList - INFO - Ignoring DAI/USDT from whitelist. Market is not active.
+2021-10-19 22:07:21,825 - VolumePairList - INFO - Pair BNB/USDT in your blacklist. Removing it from whitelist...
+2021-10-19 22:07:21,825 - VolumePairList - INFO - Pair BTCDOWN/USDT in your blacklist. Removing it from whitelist...
+2021-10-19 22:07:21,826 - VolumePairList - INFO - Searching 200 pairs: ['BTC/USDT', 'ETH/USDT', 'BUSD/USDT', 'SHIB/USDT', 'FTM/USDT', 'DOGE/USDT', 'DOT/USDT', 'ARPA/USDT', 'SOL/USDT', 'XRP/USDT', 'ADA/USDT', 'TRX/USDT', 'USDC/USDT', 'LPT/USDT', 'REEF/USDT', 'FIL/USDT', 'ATOM/USDT', 'MATIC/USDT', 'BTCST/USDT', 'LTC/USDT', 'LUNA/USDT', 'AVAX/USDT', 'ONE/USDT', 'LINK/USDT', 'ICP/USDT', 'DYDX/USDT', 'CELR/USDT', 'KAVA/USDT', 'UMA/USDT', 'VET/USDT', 'AXS/USDT', 'EOS/USDT', 'FLOW/USDT', 'NEAR/USDT', 'CAKE/USDT', 'GTC/USDT', 'XTZ/USDT', 'XLM/USDT', 'SLP/USDT', 'KEY/USDT', 'NU/USDT', 'BCH/USDT', 'KEEP/USDT', 'THETA/USDT', '1INCH/USDT', 'ETC/USDT', 'KSM/USDT', 'STPT/USDT', 'OMG/USDT', 'ZEC/USDT', 'BOND/USDT', 'FET/USDT', 'ALGO/USDT', 'FTT/USDT', 'HBAR/USDT', 'POLY/USDT', 'SFP/USDT', 'ANKR/USDT', 'CHZ/USDT', 'UNI/USDT', 'RARE/USDT', 'JST/USDT', 'STX/USDT', 'WIN/USDT', 'SUSHI/USDT', 'FORTH/USDT', 'COTI/USDT', 'CKB/USDT', 'XVS/USDT', 'EUR/USDT', 'XEC/USDT', 'OXT/USDT', 'BTT/USDT', 'EGLD/USDT', 'SXP/USDT', 'AUD/USDT', 'INJ/USDT', 'SUN/USDT', 'DASH/USDT', 'GRT/USDT', 'TVK/USDT', 'RUNE/USDT', 'ICX/USDT', 'DENT/USDT', 'HOT/USDT', 'AAVE/USDT', 'POLS/USDT', 'DODO/USDT', 'C98/USDT', 'XMR/USDT', 'AR/USDT', 'GALA/USDT', 'ZEN/USDT', 'BEL/USDT', 'BAKE/USDT', 'TLM/USDT', 'CRV/USDT', 'BETA/USDT', 'TRU/USDT', 'CELO/USDT', 'NKN/USDT', 'SRM/USDT', 'IOTX/USDT', 'ONT/USDT', 'TFUEL/USDT', 'PERP/USDT', 'VIDT/USDT', 'ALICE/USDT', 'SYS/USDT', 'COMP/USDT', 'OCEAN/USDT', 'IOTA/USDT', 'FUN/USDT', 'BTCUP/USDT', 'RVN/USDT', 'TWT/USDT', 'POND/USDT', 'HARD/USDT', 'NEO/USDT', 'ENJ/USDT', 'LINA/USDT', 'FOR/USDT', 'ZIL/USDT', 'IOST/USDT', 'CTSI/USDT', 'ATA/USDT', 'WRX/USDT', 'SC/USDT', 'WAXP/USDT', 'MINA/USDT', 'WAVES/USDT', 'SKL/USDT', 'MANA/USDT', 'ROSE/USDT', 'GBP/USDT', 'SUPER/USDT', 'QTUM/USDT', 'EPS/USDT', 'MLN/USDT', 'RAD/USDT', 'RSR/USDT', 'UNFI/USDT', 'MBOX/USDT', 'TOMO/USDT', 'SNX/USDT', 'SAND/USDT', 'BTG/USDT', 'BADGER/USDT', 'MDX/USDT', 'KLAY/USDT', 'IDEX/USDT', 'TROY/USDT', 'HIVE/USDT', 'UTK/USDT', 'QNT/USDT', 'ACM/USDT', 'AUTO/USDT', 'OGN/USDT', 'MASK/USDT', 'CHR/USDT', 'AUDIO/USDT', 'LIT/USDT', 'BEAM/USDT', 'TRB/USDT', 'BLZ/USDT', 'FLM/USDT', 'RAY/USDT', 'RLC/USDT', 'TKO/USDT', 'ETHDOWN/USDT', 'TUSD/USDT', 'CTK/USDT', 'BTS/USDT', 'COS/USDT', 'YFI/USDT', 'ETHUP/USDT', 'BAT/USDT', 'CFX/USDT', 'REQ/USDT', 'NBS/USDT', 'AGLD/USDT', 'ALPHA/USDT', 'LRC/USDT', 'REN/USDT', 'STMX/USDT', 'XVG/USDT', 'CLV/USDT', 'AKRO/USDT', 'AVA/USDT', 'BZRX/USDT', 'TCT/USDT', 'MKR/USDT', 'DOTUP/USDT', 'HNT/USDT', 'DGB/USDT', 'BAND/USDT', 'WNXM/USDT', 'GTO/USDT', 'ALPACA/USDT', 'NANO/USDT']
+2021-10-19 22:07:22,309 - AgeFilter - INFO - Validated 199 pairs.
+2021-10-19 22:08:09,861 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 22:08:21,596 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 22:09:07,841 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 22:09:18,831 - freqtrade.freqtradebot - INFO - Executing Sell for SOL/USDT. Reason: roi
+2021-10-19 22:09:18,842 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 22:09:19,079 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=55, pair=SOL/USDT, amount=0.07000000, open_rate=153.28000000, open_since=2021-10-19 20:43:01)
+2021-10-19 22:09:19,543 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=55, pair=SOL/USDT, amount=0.07000000, open_rate=153.28000000, open_since=2021-10-19 20:43:01) [sell]: 0.0108598 USDT - rate: 0.001
+2021-10-19 22:09:19,544 - freqtrade.persistence.models - INFO - Updating trade (id=55) ...
+2021-10-19 22:09:19,544 - freqtrade.persistence.models - INFO - LIMIT_SELL has been fulfilled for Trade(id=55, pair=SOL/USDT, amount=0.07000000, open_rate=153.28000000, open_since=2021-10-19 20:43:01).
+2021-10-19 22:09:19,545 - freqtrade.persistence.models - INFO - Marking Trade(id=55, pair=SOL/USDT, amount=0.07000000, open_rate=153.28000000, open_since=closed) as closed as the trade is fulfilled and found no open orders for it.
+2021-10-19 22:09:19,890 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell_fill, 'trade_id': 55, 'exchange': 'Binance', 'pair': 'SOL/USDT', 'gain': 'profit', 'limit': 155.14, 'order_type': '', 'amount': 0.07, 'open_rate': 153.28, 'close_rate': 155.14, 'current_rate': None, 'profit_amount': 0.1086106, 'profit_ratio': 0.01011241, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 20, 43, 1, 354543), 'close_date': datetime.datetime(2021, 10, 19, 22, 9, 19, 545437), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 22:09:19,896 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 22:09:20,273 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell, 'trade_id': 55, 'exchange': 'Binance', 'pair': 'SOL/USDT', 'gain': 'profit', 'limit': 155.14, 'order_type': 'limit', 'amount': 0.07, 'open_rate': 153.28, 'close_rate': 155.14, 'current_rate': 155.14, 'profit_amount': 0.1086106, 'profit_ratio': 0.01011241, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 20, 43, 1, 354543), 'close_date': datetime.datetime(2021, 10, 19, 22, 9, 19, 545437), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 22:09:21,231 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 22:09:21,294 - freqtrade.freqtradebot - INFO - Pair SOL/USDT is still locked until 2021-10-19 22:10:00 due to Auto lock.
+2021-10-19 22:09:22,696 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 22:10:13,056 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58)
+2021-10-19 22:10:14,028 - freqtrade.freqtradebot - INFO - Sell order cancelled due to timeout for Trade(id=26, pair=TFUEL/USDT, amount=39.36122357, open_rate=0.28080000, open_since=2021-10-19 18:05:58).
+2021-10-19 22:10:14,045 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 22:10:14,284 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell_cancel, 'trade_id': 26, 'exchange': 'Binance', 'pair': 'TFUEL/USDT', 'gain': 'loss', 'limit': 0, 'order_type': 'limit', 'amount': 39.361223571749896, 'open_rate': 0.2808, 'current_rate': 0.2827, 'profit_amount': -11.06368421, 'profit_ratio': -1.0, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 18, 5, 58, 762294), 'close_date': datetime.datetime(2021, 10, 19, 22, 10, 14, 284743, tzinfo=datetime.timezone.utc), 'stake_currency': 'USDT', 'fiat_currency': 'USD', 'reason': 'cancelled due to timeout'}
+2021-10-19 22:10:26,307 - freqtrade.freqtradebot - INFO - Pair SOL/USDT is still locked until 2021-10-19 22:10:00 due to Auto lock.
+2021-10-19 22:10:27,968 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 22:12:20,380 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
+2021-10-19 22:13:14,792 - freqtrade.freqtradebot - INFO - Executing Sell for AVA/USDT. Reason: roi
+2021-10-19 22:13:14,804 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 22:13:15,910 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell, 'trade_id': 42, 'exchange': 'Binance', 'pair': 'AVA/USDT', 'gain': 'profit', 'limit': 3.049, 'order_type': 'limit', 'amount': 3.6, 'open_rate': 3.002, 'close_rate': None, 'current_rate': 3.049, 'profit_amount': 0.1474164, 'profit_ratio': 0.01362695, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 19, 47, 2, 962926), 'close_date': datetime.datetime(2021, 10, 19, 22, 13, 15, 910485), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 22:13:18,967 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 22:14:06,736 - freqtrade.freqtradebot - INFO - Found open order for Trade(id=42, pair=AVA/USDT, amount=3.60000000, open_rate=3.00200000, open_since=2021-10-19 19:47:02)
+2021-10-19 22:14:07,098 - freqtrade.freqtradebot - INFO - Fee for Trade Trade(id=42, pair=AVA/USDT, amount=3.60000000, open_rate=3.00200000, open_since=2021-10-19 19:47:02) [sell]: 0.0109764 USDT - rate: 0.001
+2021-10-19 22:14:07,098 - freqtrade.persistence.models - INFO - Updating trade (id=42) ...
+2021-10-19 22:14:07,099 - freqtrade.persistence.models - INFO - LIMIT_SELL has been fulfilled for Trade(id=42, pair=AVA/USDT, amount=3.60000000, open_rate=3.00200000, open_since=2021-10-19 19:47:02).
+2021-10-19 22:14:07,099 - freqtrade.persistence.models - INFO - Marking Trade(id=42, pair=AVA/USDT, amount=3.60000000, open_rate=3.00200000, open_since=closed) as closed as the trade is fulfilled and found no open orders for it.
+2021-10-19 22:14:07,434 - freqtrade.rpc.rpc_manager - INFO - Sending rpc message: {'type': sell_fill, 'trade_id': 42, 'exchange': 'Binance', 'pair': 'AVA/USDT', 'gain': 'profit', 'limit': 3.049, 'order_type': '', 'amount': 3.6, 'open_rate': 3.002, 'close_rate': 3.049, 'current_rate': None, 'profit_amount': 0.1474164, 'profit_ratio': 0.01362695, 'sell_reason': 'roi', 'open_date': datetime.datetime(2021, 10, 19, 19, 47, 2, 962926), 'close_date': datetime.datetime(2021, 10, 19, 22, 14, 7, 99645), 'stake_currency': 'USDT', 'fiat_currency': 'USD'}
+2021-10-19 22:14:07,443 - freqtrade.wallets - INFO - Wallets synced.
+2021-10-19 22:14:18,732 - freqtrade.freqtradebot - INFO - Pair AVA/USDT is still locked until 2021-10-19 22:14:00 due to Auto lock.
+2021-10-19 22:14:19,178 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2021.9', state='RUNNING'
